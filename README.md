@@ -7,14 +7,14 @@ It was a thematic project under UN's SDG #3 - Good Health and Well-Being.
 
 
 Members of the project were:
-1. Aakansha Giri (076BEI00*)
+1. Aakansha Giri (076BEI004)
 2. Anju Chhetri (076BEI005)
 3. Devraj Parajuli (076BEI013)
-4. Dikshya Parajuli (076BEI0**)
+4. Dikshya Parajuli (076BEI041)
 5. Prajwol Pradhan (076BEI023)
 6. Sumit Yadav (076BCT088)
 
-*(asterisk)-represents the unknown value
+
 
 --------------------------------------------------------------------------------------------------------------------
 
