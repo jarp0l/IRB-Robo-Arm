@@ -10,7 +10,7 @@ for(i=0;i<10;i++)
                    
 }
 Serial.begin(9600);
-Serial.println("Hi there! Akanksha, Dikshya,Dev");
+Serial.println("Hi there!");
 
 pin.begin(9600);
 }
